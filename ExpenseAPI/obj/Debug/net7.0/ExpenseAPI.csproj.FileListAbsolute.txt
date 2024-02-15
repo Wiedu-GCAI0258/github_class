@@ -31,3 +31,6 @@
 /workspaces/github_class/ExpenseAPI/obj/Debug/net7.0/ExpenseAPI.pdb
 /workspaces/github_class/ExpenseAPI/obj/Debug/net7.0/ExpenseAPI.genruntimeconfig.cache
 /workspaces/github_class/ExpenseAPI/obj/Debug/net7.0/ref/ExpenseAPI.dll
+/workspaces/github_class/ExpenseAPI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/workspaces/github_class/ExpenseAPI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/workspaces/github_class/ExpenseAPI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.InMemory.dll
